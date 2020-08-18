@@ -16,7 +16,7 @@ print(summary)
 
 
 
-# headline = article.h2.a.text
+ headline = article.h2.a.text
 # print(headline)
 '''
 with open('simple.html') as html_file:
